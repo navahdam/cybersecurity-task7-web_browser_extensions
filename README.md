@@ -1,0 +1,1 @@
+# cybersecurity-task7-web_browser_extensions
