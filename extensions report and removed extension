@@ -4,3 +4,10 @@
 |   Microsoft Rewards             | Read history, modify search engine, manage themes | All sites                         |   Medium-High   | Broad permissions could be misused if the extension is compromised.                                    |
 |   Automate Your Bing Searches   | Block content on any page                         | \*.bing.com only                  |   Medium        | Task automation with limited scope. Could violate terms of use or be used for click fraud.             |
 |   Hoxx VPN Proxy                | Full data access on all websites                  | All sites                         |   High          | Can view/change all online activity. High potential for abuse, especially if from an untrusted source. |
+
+
+
+Removed extensions:
+* Hoxx VPN Proxy
+* Automate Your bing searches
+* Microsoft Rewards
