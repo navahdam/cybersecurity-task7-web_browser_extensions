@@ -1,0 +1,61 @@
+Potential Harms from Malicious or Over-Permissive Extensions:
+
+1. Privacy Invasion
+   Extensions like "Microsoft Rewards" and "Hoxx VPN Proxy" can access "all browsing data", including:
+
+   * Search queries
+   * Cookies and login sessions
+   * Content of visited pages
+     A malicious actor could harvest this data for profiling, tracking, or sale to third parties.
+
+2. Credential Theft
+   With permission to read/change all site data (as in **Hoxx VPN Proxy**), an extension can:
+
+   * Intercept usernames and passwords
+   * Inject phishing content or redirect users to fake login pages
+
+3. Session Hijacking & Browser Manipulation
+
+   Extensions can:
+
+   * Change browser settings (e.g., search engine redirection)
+   * Auto-click ads or reward links ("click fraud", seen in Automate Your Bing Searches)
+   * Run scripts to perform actions on your behalf
+
+4. InPrivate Browsing Exploits
+   Many of these extensions "retain access even in private mode", negating its purpose:
+
+   * Your private browsing data can still be tracked and logged.
+
+---
+
+Recommendations
+
+* Disable or Remove High-Risk Extensions
+
+  * Consider removing "Hoxx VPN Proxy" unless you absolutely trust the source.
+  * Be cautious with "Automate Your Bing Searches", especially if it’s from an unofficial source.
+
+* Review Permissions
+
+  * Avoid extensions that request access to **"all sites"** unless it's strictly necessary.
+  * Prefer extensions that limit access to **specific domains**.
+
+* Monitor Browser Behavior
+
+  * Look out for:
+
+    * Unusual redirects
+    * Slower performance
+    * Auto-searching or clicking behavior (especially in reward-oriented extensions)
+
+* Use Developer Mode Only When Necessary
+
+  * Keep "Developer Mode" off to prevent accidental loading of unverified extensions.
+
+---
+ ✅ Conclusion
+
+The Google Docs Offline extension appears safe, while "Microsoft Rewards" and "Automate Your Bing Searches" have some privacy risks. "Hoxx VPN Proxy" poses the most significant security concern due to its wide-ranging access. Regular review of installed extensions and careful attention to permissions is critical for browser safety.
+
+
